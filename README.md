@@ -106,4 +106,3 @@ Painéis interativos com modelagem de dados, DAX e storytelling visual.
 
 <h3 align="center">🚀 Sempre aprendendo, sempre construindo.</h3>
 <h4 align="center">Sinta-se à vontade para explorar meus projetos ou entrar em contato!</h4>
-``
